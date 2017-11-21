@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A430C1A01FC3421200CF6ADE /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A430C19F1FC3421200CF6ADE /* main.swift */; };
+		A487A51A1FC4528C0062D0F5 /* Robot.swift in Sources */ = {isa = PBXBuildFile; fileRef = A487A5191FC4528C0062D0F5 /* Robot.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		A430C19C1FC3421200CF6ADE /* ExerciceRobotsSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ExerciceRobotsSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		A430C19F1FC3421200CF6ADE /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A487A5191FC4528C0062D0F5 /* Robot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Robot.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				A430C19F1FC3421200CF6ADE /* main.swift */,
+				A487A5191FC4528C0062D0F5 /* Robot.swift */,
 			);
 			path = ExerciceRobotsSwift;
 			sourceTree = "<group>";
@@ -120,6 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A487A51A1FC4528C0062D0F5 /* Robot.swift in Sources */,
 				A430C1A01FC3421200CF6ADE /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
